@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: test-backend
+
+local:
+  name: 123
+  value: 342
